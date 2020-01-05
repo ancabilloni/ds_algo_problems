@@ -1,2 +1,2 @@
-# solving_ds_algo_problems
-Solutions to coding problems on Hackerrank and Leetcode
+# DS & Algo Practice
+My solutions to coding problems on Hackerrank and Leetcode.
